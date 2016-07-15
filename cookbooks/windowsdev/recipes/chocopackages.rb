@@ -19,8 +19,6 @@ chocolatey 'jre8'
 
 chocolatey 'picpick.portable'
 
-chocolatey 'adobereader'
-
 chocolatey 'github'
 
 chocolatey 'sysinternals'

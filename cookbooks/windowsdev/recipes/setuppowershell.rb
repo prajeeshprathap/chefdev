@@ -24,7 +24,6 @@ powershell_script 'Setup WINRM' do
   code <<-EOH
   Set-WSManQuickConfig -Force
   EOH
-  flags '-NoLogo, -NonInteractive, -NoProfile, -ExecutionPolicy Unrestricted'
 end
 
 cookbook_file "#{ENV['USERPROFILE']}/configure_psmodules.ps1" do
