@@ -31,3 +31,4 @@ chocolatey 'ncrunch-vs2015'
 
 chocolatey 'adobedigitaleditions'
 
+chocolatey 'conemu'
