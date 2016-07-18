@@ -19,10 +19,6 @@ chocolatey 'jre8'
 
 chocolatey 'picpick.portable'
 
-chocolatey 'github'
-
-chocolatey 'sysinternals'
-
 chocolatey 'procexp'
 
 chocolatey 'pester'
@@ -33,5 +29,5 @@ chocolatey 'ilspy'
 
 chocolatey 'ncrunch-vs2015'
 
-chocolatey 'ProcessExplorer'
+chocolatey 'adobedigitaleditions'
 
